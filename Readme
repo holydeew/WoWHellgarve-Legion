@@ -1,4 +1,4 @@
-# KyrianCORE
+# WoWHellgarve-Legion
 
 How to use the bugtracker?
 -------------------------
@@ -12,8 +12,17 @@ On the Bugtracker everything must be written in English. Before reporting, pleas
  - Use our ISSUE_TEMPLATE when you creating a new report (otherwise it would be invalid).
  - Write your reports title according to the format:<br>
  
+ 
  Example issue report titles:
-  * `[Quest][Azuremyst Isle]` Red Snapper - Very Tasty!
+  * `[Quest][Azuremyst Isle]` Red Snapper - Very Tasty! ( with wowhead-link ) 
   * `[NPC]` Magistrix Erona<br>
   * `[Spell][Mage]` Fireball
   * `[Npc][Drop]` Ghostclaw Lynx
+
+
+ Usefull links:
+https://www.wowhead.com
+https://wowpedia.fandom.com/
+https://wow.tools/
+https://www.youtube.com
+https://prnt.sc/
